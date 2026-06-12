@@ -1,5 +1,8 @@
+<pre>
 <?php
 
-print "i am we";
+
+print_r($_SERVER);
+
 
 ?>
